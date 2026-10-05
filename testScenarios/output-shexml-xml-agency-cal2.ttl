@@ -1,0 +1,62 @@
+@prefix :      <http://example.com/> .
+
+:00000000000000000001
+        :agency_fare_url  "https://www.crtm.es/billetes-y-tarifas" ;
+        :agency_lang      "00000000000000000001" ;
+        :agency_name      "00000000000000000001" ;
+        :agency_phone     "00000000000000000001" ;
+        :agency_timezone  "00000000000000000001" ;
+        :agency_url       "http://www.crtm.es" ;
+        :end_date         "2018-06-30" ;
+        :friday           1 ;
+        :monday           1 ;
+        :saturday         1 ;
+        :start_date       "2017-06-30" ;
+        :sunday           1 ;
+        :thursday         1 ;
+        :tuesday          1 ;
+        :wednesday        1 .
+
+:00000000000000000004
+        :end_date    "2018-06-30" ;
+        :friday      0 ;
+        :monday      0 ;
+        :saturday    0 ;
+        :start_date  "2017-06-30" ;
+        :sunday      0 ;
+        :thursday    0 ;
+        :tuesday     0 ;
+        :wednesday   0 .
+
+:00000000000000000002
+        :end_date    "2018-06-30" ;
+        :friday      0 ;
+        :monday      0 ;
+        :saturday    0 ;
+        :start_date  "2017-06-30" ;
+        :sunday      0 ;
+        :thursday    0 ;
+        :tuesday     0 ;
+        :wednesday   0 .
+
+:00000000000000000005
+        :end_date    "2018-06-30" ;
+        :friday      1 ;
+        :monday      1 ;
+        :saturday    1 ;
+        :start_date  "2017-06-30" ;
+        :sunday      1 ;
+        :thursday    1 ;
+        :tuesday     1 ;
+        :wednesday   1 .
+
+:00000000000000000003
+        :end_date    "2018-06-30" ;
+        :friday      0 ;
+        :monday      0 ;
+        :saturday    0 ;
+        :start_date  "2017-06-30" ;
+        :sunday      0 ;
+        :thursday    0 ;
+        :tuesday     0 ;
+        :wednesday   0 .

@@ -1,0 +1,6 @@
+<http://example.com/00000000000000000001> <http://example.com/agency_fare_url> <https://www.crtm.es/billetes-y-tarifas> .
+<http://example.com/00000000000000000001> <http://example.com/agency_phone> "00000000000000000001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.com/00000000000000000001> <http://example.com/agency_lang> "00000000000000000001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.com/00000000000000000001> <http://example.com/agency_timezone> "00000000000000000001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.com/00000000000000000001> <http://example.com/agency_url> <http://www.crtm.es> .
+<http://example.com/00000000000000000001> <http://example.com/agency_name> "00000000000000000001"^^<http://www.w3.org/2001/XMLSchema#integer> .

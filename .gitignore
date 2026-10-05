@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+*.pyc
+testScenarios/output-csv.ttl
+testScenarios/output-json.ttl

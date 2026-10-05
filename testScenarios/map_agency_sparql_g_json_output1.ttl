@@ -1,0 +1,17 @@
+@base          <http://example.org/> .
+@prefix :       <http://example.com/> .
+@prefix dbr:    <http://dbpedia.org/resource/> .
+@prefix fun:    <http://w3id.org/sparql-generate/fn/> .
+@prefix iter:   <http://w3id.org/sparql-generate/iter/> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc:     <http://purl.org/science/owl/sciencecommons/> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+
+:00000000000000000001
+        :agency_fare_url  "https://www.crtm.es/billetes-y-tarifas" ;
+        :agency_lang      "00000000000000000001" ;
+        :agency_name      "00000000000000000001" ;
+        :agency_phone     "00000000000000000001" ;
+        :agency_timezone  "00000000000000000001" ;
+        :agency_url       "http://www.crtm.es" .

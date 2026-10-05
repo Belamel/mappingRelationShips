@@ -1,0 +1,7 @@
+<http://transport.linkeddata.es/madrid/agency/00000000000000000001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Agency>.
+<http://transport.linkeddata.es/madrid/agency/00000000000000000001> <http://xmlns.com/foaf/0.1/page> <http://www.crtm.es>.
+<http://transport.linkeddata.es/madrid/agency/00000000000000000001> <http://xmlns.com/foaf/0.1/name> "00000000000000000001".
+<http://transport.linkeddata.es/madrid/agency/00000000000000000001> <http://vocab.gtfs.org/terms#timeZone> "00000000000000000001".
+<http://transport.linkeddata.es/madrid/agency/00000000000000000001> <http://purl.org/dc/terms/language> "00000000000000000001".
+<http://transport.linkeddata.es/madrid/agency/00000000000000000001> <http://xmlns.com/foaf/0.1/phone> "00000000000000000001".
+<http://transport.linkeddata.es/madrid/agency/00000000000000000001> <http://vocab.gtfs.org/terms#fareUrl> <https://www.crtm.es/billetes-y-tarifas>.

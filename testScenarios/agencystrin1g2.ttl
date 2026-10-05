@@ -1,0 +1,10 @@
+@prefix :      <http://example.com/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+:00000000000000000001
+        :agency_fare_url  <https://www.crtm.es/billetes-y-tarifas> ;
+        :agency_lang      "00000000000000000001" ;
+        :agency_name      "00000000000000000001" ;
+        :agency_phone     "00000000000000000001" ;
+        :agency_timezone  "00000000000000000001" ;
+        :agency_url       <http://www.crtm.es> .
